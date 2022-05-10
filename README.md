@@ -1,4 +1,4 @@
-## Oii, eu sou a Rafa!
+## Oii, eu sou a Rafa! 🏳️‍🌈
 
 
 <div align="center">

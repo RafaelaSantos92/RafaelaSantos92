@@ -1,5 +1,9 @@
 ## Oii, eu sou a Rafa! 🏳️‍🌈
 
+Desenvolvedora Full Stack formada pela [Generation Brasil](https://brazil.generation.org/)
+
+🌈 Pronomes: Ela/Dela/She/Her
+
 
 <div align="center">
 

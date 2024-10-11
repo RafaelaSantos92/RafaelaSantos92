@@ -1,6 +1,7 @@
 ## Oii, eu sou a Rafa! 🏳️‍🌈
 
 Desenvolvedora Full Stack formada pela [Generation Brasil](https://brazil.generation.org/)
+
 Atualmente Analista de BI e estudante de Engenharia de Dados! 
 
 🌈 Pronomes: Ela/Dela/She/Her

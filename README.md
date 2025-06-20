@@ -18,7 +18,6 @@ Pronomes: Ela/Dela/She/Her
  <img align="center" alt="rafaela-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"> <img align="center" alt="rafaela-MySql" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
  <img align="center" alt="rafaela-spring" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
  <img align="center" alt="rafaela-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
-  <img align="center" alt="rafaela-Python" height="50" width="60" src=" https://img.icons8.com/?size=100&id=l75OEUJkPAk4&format=png&color=000000" />
 
      
  

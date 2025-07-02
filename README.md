@@ -1,7 +1,7 @@
 ## Oii, eu sou a Rafa 👋! 
 
 - Graduada em **Artes Visuais com foco em Digitais** pela UFRPE  
-- Tecnóloga em **Desenvolvimento de Sistemas**  
+- Técnica em **Desenvolvimento de Sistemas**  
 - Pós-graduanda em **Engenharia de Dados** pela PUC Minas  
 - Estagiária de **Engenharia de Dados e Inteligência Artificial** na CI&T  
 - Interesse em áreas que conectam **arte, tecnologia, dados e inovação**
